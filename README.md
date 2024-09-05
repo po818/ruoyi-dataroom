@@ -26,4 +26,4 @@ dashboard协议地址：https://gitee.com/gcpaas/DashBoard/blob/master/LICENSE
 # 效果
 <h3>账号：admin    密码：admin@123</h3>
 
-![微信图片_20240904102450](https://github.com/user-attachments/assets/eb8f3b51-ebce-435a-b455-4b3909eae1ac)
+![微信图片_20240905170938](https://github.com/user-attachments/assets/deac02cb-154c-457e-a4bd-4b715aef6ad6)
